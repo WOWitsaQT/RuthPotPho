@@ -1,0 +1,38 @@
+@font-face {
+font-family: 'InterLocal';
+src: url('assets/fonts/Inter-Italic-VariableFont_opsz\,wght.ttf') format('ttf');
+font-weight: 100 900;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'PlayfairLocal';
+src: url('assets/fonts/Inter-VariableFont_opsz\,wght.ttf') format('ttf');
+font-weight: 400 900;
+font-style: normal italic;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'PlayfairLocal';
+src: url('assets/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf') format('ttf');
+font-weight: 400 900;
+font-style: normal italic;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'PlayfairLocal';
+src: url('assets/fonts/PlayfairDisplay-VariableFont_wght.ttf') format('ttf');
+font-weight: 400 900;
+font-style: normal italic;
+font-display: swap;
+}
+
+body {
+margin: 0;
+font-family: 'InterLocal', sans-serif;
+background: #0a0f1e;
+color: #cde1ff;
+}
